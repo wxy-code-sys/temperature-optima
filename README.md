@@ -10,3 +10,8 @@ A MATLAB function that fits a quadratic curve to temperature and GPP data to est
 2. compute_topt_exceedance.py
 
 A Python script that calculates the first year when growing season mean temperature exceeds Topt under future climate scenarios, producing spatial raster outputs.
+
+
+3. irrigation_topt_relationship.py
+
+Python script for quantifying the relationship between irrigation water use and Topt.
